@@ -1,3 +1,4 @@
+#Diferencia entre cuadrados y rectángulos
 #variables
 base=float(0.0)
 altura=float(0.0)

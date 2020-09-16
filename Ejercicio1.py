@@ -1,3 +1,4 @@
+#Objeto más grande
 #variables
 medida_1=float(0.0)
 medida_2=float(0.0)

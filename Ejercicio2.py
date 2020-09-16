@@ -1,3 +1,4 @@
+#Distancia recorrida por una rueda
 #variables
 vueltas=float(0.0)
 radio=float(0.0)
