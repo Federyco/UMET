@@ -14,7 +14,7 @@ def calculo_de_resistencias(valor_res_1, valor_res_2):
                     break
     else:
         #salida
-        print("Valores fuera de rango, ingrese nuevamente."
+        print("Valores fuera de rango, ingrese nuevamente.")
 while continuar:
     #salida
     print("Ingrese lo datos como el programa indica, los valores deben estar separados por un espacio.")
